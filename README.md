@@ -1,4 +1,4 @@
-# youtube-dl
+# GUI youtube-dl app
 Simple way to downlaod youtube videos with gui app
 
 
