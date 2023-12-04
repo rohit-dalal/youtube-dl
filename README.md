@@ -8,7 +8,7 @@ Simple way to downlaod youtube videos with gui app
 2. Run:
 `python ptube.py`
 
-## Creator
+## Creator:
 Rohit
 
 Let me know if you have any doubt, query or questions.
